@@ -9,4 +9,6 @@ If you'd like to start building studies in lab.js yourself, you can find really 
 
 You can download different versions of the [Sound Induced Flash Illusion](https://www.illusionsindex.org/i/sound-induced-flash) with an additional n-back task (no-back, 0-back, 1-back and 2-back task) in [English](https://github.com/MMarieSchuckart/lab.js-studies/blob/master/SIFI_n-back_online_english) or [German](https://github.com/MMarieSchuckart/lab.js-studies/blob/master/SIFI_n-back_online_german) as online studies or in [German](https://github.com/MMarieSchuckart/lab.js-studies/blob/master/SIFI_n-back_lab_german) as a lab study. You can easily transform the English online study into a lab study as well.  
 
+There is also a lab version and an online version of a study concerning the Redundant Signals Effect (inofficial title = MultiRace) in this repository. Both are in German, but I'll share an english version, soon. 
 
+If you'd like to have a look at a demo dataset for one of the studies, feel free to contact me. You can download my analysis scripts for the studies [here](https://github.com/MMarieSchuckart/R-scripts). 
