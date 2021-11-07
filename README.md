@@ -1,6 +1,6 @@
 # lab.js studies
 
-Here you can find some of the lab.js studies I built for Dr. Julian Keil. To modify or run them, just download the scripts and open them in the [lab.js builder](https://labjs.felixhenninger.com/). If you have problems opening, modifying or running the studies or found a video of a cute animal you want to share with me (always appreciated!), feel free to write me an email (merle.schuckart@gmx.de) or a [DM on Twitter](https://twitter.com/MerleSchuckart). I'm happy to help and always really thankful for ideas or suggestions for improving my studies!
+Here you can find some of the lab.js studies I built for Julian Keil. To modify or run them, just download the scripts and open them in the [lab.js builder](https://labjs.felixhenninger.com/). If you have problems opening, modifying or running the studies or found a video of a cute animal you want to share with me (always appreciated!), feel free to write me an email (merle.schuckart@gmx.de) or a [DM on Twitter](https://twitter.com/MerleSchuckart). I'm happy to help and always really thankful for ideas or suggestions for improving my studies!
 
 If you'd like to start building studies in lab.js yourself, you can find really nice [tutorials](https://labjs.readthedocs.io/en/latest/learn/builder/index.html) on how to use the [builder](https://labjs.felixhenninger.com/) online.
 
